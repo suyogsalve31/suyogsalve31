@@ -22,8 +22,7 @@ Full Stack .NET Developer with 2+ years of experience in developing and maintain
 
 ## 📚 Currently Improving
 
-ASP.NET Core Web API, EF Core, SQL Server, REST API Design & Clean Coding Practices
-
+Advanced Web API Development, SQL Performance Tuning, REST API Design & Clean Coding Practices
 ---
 
 ## 📫 Connect With Me
