@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Suyog Salve 👋
 
-<!--
-**suyogsalve31/suyogsalve31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack .NET Developer
 
-Here are some ideas to get you started:
+Full Stack .NET Developer with 2+ years of experience in developing and maintaining Manufacturing ERP applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+**Backend:** C#, ASP.NET Core, ASP.NET MVC, Web API, ADO.NET, EF Core, LINQ
+
+**Database:** SQL Server, T-SQL, Stored Procedures, Query Optimization
+
+**Frontend:** HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX
+
+**Architecture & Concepts:** N-Tier Architecture, Repository Pattern, OOP, SOLID, Dependency Injection, Middleware, Authentication & Authorization, RBAC, REST APIs
+
+**Tools:** Git, GitHub, Visual Studio, SSMS, Postman, Swagger, Azure DevOps, IIS
+
+---
+
+## 📚 Currently Improving
+
+ASP.NET Core Web API, EF Core, SQL Server, REST API Design & Clean Coding Practices
+
+---
+
+## 📫 Connect With Me
+
+📧 suyogsalve31@gmail.com  
+📍 Pune, Maharashtra  
+🔗 github.com/suyogsalve31
